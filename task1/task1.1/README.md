@@ -1,6 +1,14 @@
 # baiduife Task 1.1
 
+### BIAS团队
 
+Brain is another sex
+
+#### 任务完成效果
+
+<http://zhuly09.github.io/baiduife-fighting/task/task1.1/index.html>
+
+#### 任务页面
 <http://ife.baidu.com/task/detail?taskId=1>
 
 #### 面向人群：
